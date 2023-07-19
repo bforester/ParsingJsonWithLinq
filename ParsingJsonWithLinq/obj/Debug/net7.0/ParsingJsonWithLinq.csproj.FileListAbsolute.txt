@@ -1,0 +1,17 @@
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.csproj.AssemblyReference.cache
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.AssemblyInfoInputs.cache
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.AssemblyInfo.cs
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\bin\Debug\net7.0\ParsingJsonWithLinq.exe
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\bin\Debug\net7.0\ParsingJsonWithLinq.deps.json
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\bin\Debug\net7.0\ParsingJsonWithLinq.runtimeconfig.json
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\bin\Debug\net7.0\ParsingJsonWithLinq.dll
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\bin\Debug\net7.0\ParsingJsonWithLinq.pdb
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.csproj.CopyComplete
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.dll
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\refint\ParsingJsonWithLinq.dll
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.pdb
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ParsingJsonWithLinq.genruntimeconfig.cache
+C:\Users\MainFrame\source\repos\Exercise\ParsingJsonWithLinq\ParsingJsonWithLinq\obj\Debug\net7.0\ref\ParsingJsonWithLinq.dll
